@@ -1,4 +1,4 @@
-const apiKey = "9ee02b14df2e3917196f9f75e9d41087";
+const apiKey = "9ee02b14df2e3917196f9f75e9d41087"; /* Put here your own API Key */
         const apiUrl = "http://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
         const searchBox = document.querySelector(".search input");
